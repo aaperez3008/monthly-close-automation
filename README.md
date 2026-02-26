@@ -49,6 +49,6 @@ En `data/2026/<month>/reports/`:
 ## Notas importantes
 
 - No hace escrituras automáticas a producción.
-- `EMAIL` vs `EMAILADDRESS` se reporta como warning (no bloquea).
+- El tag de comisión se genera dinámicamente por mes/año del comando (ejemplo: `FEB_26`).
 - Revisa `validation_report.md` antes de cargar en Matrixify/DB.
 

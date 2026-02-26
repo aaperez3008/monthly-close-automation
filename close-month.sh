@@ -56,7 +56,9 @@ python3 -m monthly_close_automation.cli run \
   --points-load-file "${points_load_files[0]}" \
   --points-void-file "${points_void_files[0]}" \
   --output-dir "$OUTPUT_DIR" \
-  --reports-dir "$REPORTS_DIR"
+  --reports-dir "$REPORTS_DIR" \
+  --month "$MONTH" \
+  --year "$YEAR"
 
 echo ""
 echo "Listo."

@@ -1,8 +1,5910 @@
 {
   "summary": {
     "errors": 0,
-    "warnings": 0,
-    "total": 0
+    "warnings": 843,
+    "total": 843
   },
-  "issues": []
+  "issues": [
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 69,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 129,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 553,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 1058,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 1419,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 1469,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 1487,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 1488,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 1500,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 1638,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 2385,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 2388,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 2398,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 2410,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 2435,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 2856,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 2879,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 2967,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 3008,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 3020,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 3172,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 3252,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 3333,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 3340,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 3380,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 3456,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 3546,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 3579,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 3736,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 3986,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 4071,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 4125,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 4182,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 4414,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 4745,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 4797,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 4835,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 4843,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 4859,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 4947,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 5087,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 6074,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 6082,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 6090,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 6560,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 6561,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 6574,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 6600,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 6691,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 6765,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 6785,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 6799,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 6930,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 6959,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 6970,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 7212,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 7276,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 7417,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 7422,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 7442,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 7446,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 7465,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 7467,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 7485,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 7487,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 7515,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 7572,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 7596,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 7602,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 7823,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 7859,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 7896,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 8022,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 8040,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 8892,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 9509,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 9652,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 9677,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 9691,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 9742,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 9753,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 9803,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 9826,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 9900,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 9914,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 10028,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 10244,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 10289,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 10442,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 10463,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 10514,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 10773,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 10777,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 10821,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 10835,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 10894,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 10960,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 11025,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 11031,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 11206,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 11254,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 11278,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 11285,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 11306,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 11334,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 11337,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 11344,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 11435,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 11568,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 11571,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 11626,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 11633,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 11661,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 11674,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 11844,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 11875,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 11888,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 11942,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 12043,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 12103,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 12110,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 12138,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 12192,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 12891,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 12921,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 12989,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 13001,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 13055,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 13061,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 13082,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 13101,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 13158,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 13164,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 13178,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 13197,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 13212,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 13216,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 13237,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 13238,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 13285,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 13319,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 13360,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 13362,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 13401,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 13411,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 13474,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 13476,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 13537,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 13607,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 13629,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 13654,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 13671,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 13860,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 14350,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 14506,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 14635,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 14639,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 14643,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 14729,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 14767,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 14847,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 14872,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 14945,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 15070,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 15130,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 15146,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 15169,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 15181,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 15227,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 15228,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 15234,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 15262,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 15287,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 15324,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 15325,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 15326,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 15327,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 15328,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 15329,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 15330,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 15425,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 15450,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 15519,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 15691,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 15722,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 15723,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 15754,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 16927,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 16985,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 17020,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 17040,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 17140,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 17192,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 17659,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 17660,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 17755,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 17794,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 17807,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 17877,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 18394,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 18627,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 18906,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 19113,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 19132,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 19142,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 19146,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 19168,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 19221,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 19241,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 19352,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 19438,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 19488,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 19505,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('dimarismoya@gmail.com',)",
+      "row_number": 19819,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('dimarismoya@gmail.com',)",
+      "row_number": 19822,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 20054,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 20183,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 20275,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 20281,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 20339,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 20345,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 20367,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 20372,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 20387,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 20395,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 20477,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 20543,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 20545,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 20589,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 20639,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 20663,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 20692,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 20707,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 20712,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 20743,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 20756,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 21182,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 22066,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 22123,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 22133,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 22202,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 22235,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 22366,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 22878,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 22897,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 22930,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 23238,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 23249,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 23295,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 23456,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 23892,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 24282,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 24352,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 24363,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 24393,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 24541,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 24545,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 24551,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 24555,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 24561,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 24563,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 24608,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 24695,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 24724,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 24766,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 24783,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 24816,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 24827,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 24883,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 24891,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 24914,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 24951,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 25010,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 25081,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 25082,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 25084,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 25094,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 25128,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 25138,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 25142,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 25145,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 25173,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 25175,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 25191,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 25216,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 25234,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 25312,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 25358,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 25448,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 25492,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 25516,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 25564,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 25573,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 25595,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 25621,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 26282,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 26395,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 26743,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 26747,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 27030,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 27059,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 27068,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 27089,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 27469,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 27671,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 27675,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 27774,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 27935,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 28409,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 28455,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 28475,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 28827,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 28853,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 28871,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 28880,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 28886,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 28890,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 28893,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 28894,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 28899,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 28938,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 28944,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 28961,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 28963,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 28982,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29001,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29016,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29019,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29054,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29166,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29179,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29230,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29260,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29366,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29386,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29600,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29694,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29699,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29729,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29736,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29951,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29952,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29953,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29954,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29955,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29956,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29957,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29958,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29959,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29960,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29961,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29962,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29963,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29964,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29965,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29966,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29967,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29968,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29969,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29970,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29971,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29972,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29973,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29974,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29975,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29976,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29977,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29978,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29979,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29980,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29981,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29982,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29983,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29984,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29985,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29986,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29987,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29988,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29989,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29990,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29991,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29992,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29993,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29994,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29995,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29996,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29997,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29998,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 29999,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30000,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30001,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30002,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30003,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30004,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30005,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30006,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30007,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30008,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30009,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30010,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30011,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30012,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30013,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30014,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30015,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30016,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30017,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30018,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30019,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30020,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30021,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30022,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30023,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30024,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30025,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30026,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30027,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30028,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30029,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30030,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30031,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30032,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30033,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30034,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30035,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30036,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30037,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30038,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30039,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30040,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30041,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30042,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30043,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30044,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30045,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30046,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30047,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30048,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30049,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30050,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30051,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30052,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30053,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30054,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30055,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30056,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30057,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30058,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30059,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30060,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30061,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30062,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30063,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30064,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30065,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30066,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30067,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30068,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30069,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30070,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30071,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30072,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30073,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30074,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30075,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30076,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30077,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30078,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30079,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30080,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30081,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30082,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30083,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30084,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30085,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30086,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30087,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30088,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30089,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30090,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30091,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30092,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30093,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30094,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30095,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30096,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30097,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30098,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30099,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30100,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30101,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30102,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30103,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30104,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30105,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30106,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30107,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30108,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30109,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30110,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30111,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30112,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30113,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30114,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30115,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30116,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30117,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30118,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30119,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30120,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30121,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30122,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30123,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30124,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30125,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30126,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30127,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30128,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30129,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30130,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30131,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30132,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30133,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30134,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30135,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30136,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30137,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30138,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30139,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30140,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30141,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30142,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30143,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30144,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30145,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30146,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30147,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30148,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30149,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30150,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30151,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30152,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30153,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30154,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30155,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30156,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30157,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30158,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30159,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30160,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30161,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30162,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30164,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30165,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30166,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30167,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30168,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30169,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30170,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30171,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30172,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30173,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30174,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30175,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30176,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30177,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30178,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30179,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30180,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30181,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30182,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30183,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30184,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30185,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30186,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30187,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30188,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30189,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30190,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30405,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30406,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30407,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30412,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30416,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30426,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30430,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30434,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30444,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30446,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30452,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30453,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30455,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30495,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30517,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30528,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30576,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30605,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30636,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30737,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30744,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30778,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30781,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30788,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30839,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30910,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30915,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30955,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 30956,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 31223,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 31254,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 31460,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 31747,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 31764,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 31771,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 31789,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 31801,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 31802,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 31832,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 31879,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 31882,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 31944,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 31948,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 32028,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 32427,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 32436,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 32441,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 32466,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 32479,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 32480,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 32551,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 32607,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 32642,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 32740,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 32751,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 32800,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 32808,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 33395,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 33529,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 33547,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 33635,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 33641,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 33647,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 33800,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 33878,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 33937,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 34008,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 34039,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 34140,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 34181,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 34196,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 34259,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 34277,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 34286,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 34313,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 34362,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 34391,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 34429,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 34507,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 34547,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 34579,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('serranolorena572@gmail.com',)",
+      "row_number": 35155,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('serranolorena572@gmail.com',)",
+      "row_number": 35170,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 35462,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 35902,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 36256,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 36949,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 36972,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 36981,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 37044,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 37084,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 37110,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 37126,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 37218,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 37483,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 37599,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 37934,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 38168,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 38207,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 38226,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 38290,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 38296,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 38305,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 38351,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 38465,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 38468,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 38501,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 38529,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 38552,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 38566,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 38571,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 38595,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 39037,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 39049,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 39063,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 39087,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 39101,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 39145,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 39151,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 39195,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 39202,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 39254,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 39294,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 39355,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 39385,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 39393,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 39440,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 39442,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 39447,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 39467,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 39729,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 39730,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 39733,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 39784,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 40883,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 40929,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 40953,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 40958,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 40976,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 41023,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 41066,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 41077,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 41104,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 41110,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 41123,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 41153,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 41160,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 41218,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 41240,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 41251,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 41332,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 41338,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 41451,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 41514,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 41601,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 41625,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 41656,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 41658,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 41668,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 41676,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 41713,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 41919,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 41962,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 41998,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 42031,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 42125,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 42293,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 42312,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 42339,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 42348,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 42378,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 42395,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 42408,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 42413,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 42437,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 42452,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 42457,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 42464,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 42853,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 42869,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 42945,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 42978,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 43044,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 43696,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 43777,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 44194,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 44207,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 44219,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 44233,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 44236,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 44243,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 44272,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 44275,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 44639,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 44679,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 44727,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 44767,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 44768,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 44770,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 44783,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 44810,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 44857,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 44862,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 44902,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 44943,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 44947,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 44962,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 44965,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 45012,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 45015,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 45021,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 45032,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 45061,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 45070,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 45111,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 45135,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 45142,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 45153,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 45227,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 45247,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 45269,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 45270,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 45363,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 45364,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 45446,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 45546,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 45587,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 45603,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 45604,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 45659,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 45660,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 45695,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 45723,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 46477,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 46574,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 46596,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 46641,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 46642,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 46668,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 46787,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 46797,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 46818,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 46849,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 46854,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 46924,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 46929,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 46933,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 46938,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 46939,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 46982,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 47023,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 47035,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 47036,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 47148,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 47187,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 47219,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 47258,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 47263,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 47267,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 47296,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 47406,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 47408,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 47414,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    },
+    {
+      "severity": "warning",
+      "code": "DUPLICATE_EMAIL",
+      "message": "Duplicate key across columns ['EMAIL']: ('',)",
+      "row_number": 47425,
+      "file_name": "COPS Upload to Shopify Dic - FINAL.csv"
+    }
+  ]
 }

@@ -31,15 +31,40 @@ def normalize_consultant_id(raw_id: str) -> str:
     return normalized or "0"
 
 
-def transform_commissions(input_path: Path, output_path: Path, report: ValidationReport) -> None:
+def _build_commission_tag_suffix(month: str, year: str) -> str:
+    month_clean = (month or "").strip().lower()
+    year_clean = (year or "").strip()
+    month_codes = {
+        "january": "JAN",
+        "february": "FEB",
+        "march": "MAR",
+        "april": "APR",
+        "may": "MAY",
+        "june": "JUN",
+        "july": "JUL",
+        "august": "AUG",
+        "september": "SEP",
+        "october": "OCT",
+        "november": "NOV",
+        "december": "DEC",
+    }
+    month_code = month_codes.get(month_clean, month_clean[:3].upper() or "UNK")
+    year_suffix = year_clean[-2:] if len(year_clean) >= 2 else year_clean
+    return f"{month_code}_{year_suffix}"
+
+
+def transform_commissions(
+    input_path: Path,
+    output_path: Path,
+    report: ValidationReport,
+    month: str = "january",
+    year: str = "2026",
+) -> None:
     file_name = input_path.name
     rows = read_csv(input_path)
     required_columns = [
         "EMAIL",
-        "EMAILADDRESS",
-        "COMMAND",
         "Metafield: custom.commission_percentage[number_integer]",
-        "CONSID",
     ]
     report.extend(require_columns(rows, required_columns, file_name))
     if report.error_count:
@@ -52,30 +77,15 @@ def transform_commissions(input_path: Path, output_path: Path, report: Validatio
             "EMPTY_COMMISSION_PCT",
         )
     )
-    report.extend(validate_non_empty(rows, file_name, "CONSID", "EMPTY_CONSID"))
     report.extend(validate_emails(rows, file_name, "EMAIL"))
-    report.extend(validate_emails(rows, file_name, "EMAILADDRESS"))
+    has_consid_column = "CONSID" in rows[0]
+    tag_suffix = _build_commission_tag_suffix(month, year)
 
     transformed: list[dict[str, str]] = []
     for idx, row in enumerate(rows, start=2):
         email = (row.get("EMAIL") or "").strip()
-        email_address = (row.get("EMAILADDRESS") or "").strip()
-        command = (row.get("COMMAND") or "").strip() or "Update"
         commission = (row.get("Metafield: custom.commission_percentage[number_integer]") or "").strip()
-        consid = normalize_consultant_id(row.get("CONSID", ""))
-        normalized_email = email or email_address
-        normalized_email_address = email_address or email
-
-        if email and email_address and email.lower() != email_address.lower():
-            report.add(
-                ValidationIssue(
-                    "warning",
-                    "EMAIL_MISMATCH",
-                    f"EMAIL and EMAILADDRESS differ: '{email}' vs '{email_address}'",
-                    row_number=idx,
-                    file_name=file_name,
-                )
-            )
+        consid = (row.get("CONSID") or "").strip()
 
         if commission not in {"40", "45", "50"}:
             report.add(
@@ -88,38 +98,37 @@ def transform_commissions(input_path: Path, output_path: Path, report: Validatio
                 )
             )
 
-        if not normalized_email and consid == "0":
-            report.add(
-                ValidationIssue(
-                    "error",
-                    "MISSING_IDENTITY",
-                    "Row must contain at least one email or a valid CONSID",
-                    row_number=idx,
-                    file_name=file_name,
-                )
-            )
+        commission_tag_value = commission
+        parsed_commission = _parse_int(commission)
+        if parsed_commission is not None:
+            commission_tag_value = str(parsed_commission)
 
+        transformed_row = {
+            "EMAIL": email,
+            "COMMAND": "UPDATE",
+            "Metafield: custom.commission_percentage[number_integer]": commission,
+            "Tags Command": "MERGE",
+            "Tags": f"COMM_{commission_tag_value}_{tag_suffix}",
+        }
+        if has_consid_column:
+            transformed_row["CONSID"] = consid
         transformed.append(
-            {
-                "EMAIL": normalized_email.upper(),
-                "EMAILADDRESS": normalized_email_address.upper(),
-                "COMMAND": command,
-                "Metafield: custom.commission_percentage[number_integer]": commission,
-                "CONSID": consid,
-            }
+            transformed_row
         )
 
-    report.extend(validate_duplicates(transformed, file_name, ["CONSID"], "DUPLICATE_CONSID"))
+    report.extend(validate_duplicates(transformed, file_name, ["EMAIL"], "DUPLICATE_EMAIL"))
+    output_columns = [
+        "EMAIL",
+        "COMMAND",
+        "Metafield: custom.commission_percentage[number_integer]",
+    ]
+    if has_consid_column:
+        output_columns.append("CONSID")
+    output_columns.extend(["Tags Command", "Tags"])
     write_csv(
         output_path,
         transformed,
-        [
-            "EMAIL",
-            "EMAILADDRESS",
-            "COMMAND",
-            "Metafield: custom.commission_percentage[number_integer]",
-            "CONSID",
-        ],
+        output_columns,
     )
 
 

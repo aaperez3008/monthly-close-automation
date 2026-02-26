@@ -23,6 +23,8 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument("--points-void-file", required=True, help="Points void CSV source file.")
     parser.add_argument("--output-dir", required=True, help="Directory for transformed output files.")
     parser.add_argument("--reports-dir", required=True, help="Directory for validation reports.")
+    parser.add_argument("--month", required=True, help="Month name used for commission tag suffix.")
+    parser.add_argument("--year", required=True, help="Year used for commission tag suffix.")
     return parser
 
 
@@ -32,6 +34,8 @@ def run_pipeline(
     points_void_file: Path,
     output_dir: Path,
     reports_dir: Path,
+    month: str,
+    year: str,
 ) -> int:
     report = ValidationReport()
 
@@ -39,6 +43,8 @@ def run_pipeline(
         commission_file,
         output_dir / "matrixify_commissions.csv",
         report,
+        month=month,
+        year=year,
     )
     transform_points_load(
         points_load_file,
@@ -65,6 +71,8 @@ def main() -> int:
     points_void_file = Path(args.points_void_file)
     output_dir = Path(args.output_dir)
     reports_dir = Path(args.reports_dir)
+    month = args.month
+    year = args.year
 
     if args.command == "run":
         return run_pipeline(
@@ -73,6 +81,8 @@ def main() -> int:
             points_void_file,
             output_dir,
             reports_dir,
+            month,
+            year,
         )
     parser.error(f"Unsupported command: {args.command}")
     return 2
