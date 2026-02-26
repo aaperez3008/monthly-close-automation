@@ -26,3 +26,8 @@
 - Warnings: 0
 - Estado: listo para uso operativo mensual.
 
+## Nota sobre tags de comisiones
+
+- El sufijo de tag en `matrixify_commissions.csv` ahora es dinámico y depende de `<month>` y `<year>` del comando.
+- Formato: `COMM_{commission_percentage}_{MON_YY}` (ejemplo para febrero 2026: `COMM_40_FEB_26`).
+

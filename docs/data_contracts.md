@@ -6,17 +6,21 @@ Carpeta: `data/2026/<month>/input/commission/`
 
 CSV esperado (columnas):
 - `EMAIL`
-- `EMAILADDRESS`
-- `COMMAND`
 - `Metafield: custom.commission_percentage[number_integer]`
-- `CONSID`
+- `CONSID` (opcional)
 
 Output:
 - `data/2026/<month>/output/matrixify_commissions.csv`
 
 Reglas:
-- `EMAIL` vs `EMAILADDRESS` distinto = warning.
-- `CONSID` se normaliza quitando ceros a la izquierda.
+- Se conserva una sola columna identificadora: `EMAIL`.
+- `COMMAND` se fuerza a `UPDATE` (uppercase).
+- El metafield se exporta exactamente como `Metafield: custom.commission_percentage[number_integer]`.
+- `CONSID` se conserva solo si existe en el input.
+- Se agregan columnas de tags para Matrixify:
+  - `Tags Command` = `MERGE`
+  - `Tags` = `COMM_{commission_percentage}_{MON_YY}` (ejemplo: `COMM_40_FEB_26`)
+- Se conservan todas las filas del input.
 
 ## 2) Points load input
 

@@ -25,6 +25,11 @@ Carpetas:
 ```
 
 Reemplaza `january` por el mes que corresponda.
+Opcional con año explícito:
+
+```bash
+./close-month.sh 2026 february
+```
 
 ## Qué genera
 
@@ -32,6 +37,14 @@ En `data/2026/<month>/output/`:
 - `matrixify_commissions.csv`
 - `points_load_ready.csv`
 - `points_void_ready.csv`
+
+Para comisiones (`matrixify_commissions.csv`) se genera formato Matrixify Customer update:
+- `EMAIL` (identificador)
+- `COMMAND` = `UPDATE`
+- `Metafield: custom.commission_percentage[number_integer]`
+- `CONSID` (si existe en el input)
+- `Tags Command` = `MERGE`
+- `Tags` = `COMM_{commission_percentage}_{MON_YY}` (según mes/año del comando)
 
 En `data/2026/<month>/reports/`:
 - `validation_report.md`
